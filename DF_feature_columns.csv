@@ -1,0 +1,332 @@
+Feature Names
+modelYear
+ownerNo
+price_cleaned
+oem_BMW
+oem_Chevrolet
+oem_Citroen
+oem_Datsun
+oem_Fiat
+oem_Ford
+oem_Hindustan Motors
+oem_Honda
+oem_Hyundai
+oem_Isuzu
+oem_Jaguar
+oem_Jeep
+oem_Kia
+oem_Land Rover
+oem_Lexus
+oem_MG
+oem_Mahindra
+oem_Mahindra Renault
+oem_Mahindra Ssangyong
+oem_Maruti
+oem_Mercedes-Benz
+oem_Mini
+oem_Mitsubishi
+oem_Nissan
+oem_Porsche
+oem_Renault
+oem_Skoda
+oem_Tata
+oem_Toyota
+oem_Volkswagen
+oem_Volvo
+ft_Petrol
+model_Audi A3
+model_Audi A3 cabriolet
+model_Audi A4
+model_Audi A6
+model_Audi A8
+model_Audi Q2
+model_Audi Q3
+model_Audi Q3 Sportback
+model_Audi Q5
+model_Audi Q7
+model_Audi S5 Sportback
+model_BMW 1 Series
+model_BMW 2 Series
+model_BMW 3 Series
+model_BMW 3 Series GT
+model_BMW 3 Series Gran Limousine
+model_BMW 5 Series
+model_BMW 6 Series
+model_BMW 7 Series
+model_BMW X1
+model_BMW X3
+model_BMW X4
+model_BMW X5
+model_BMW X7
+model_Chevrolet Beat
+model_Chevrolet Cruze
+model_Chevrolet Enjoy
+model_Chevrolet Optra
+model_Chevrolet Sail
+model_Chevrolet Spark
+model_Citroen C3
+model_Citroen C5 Aircross
+model_Datsun GO
+model_Datsun GO Plus
+model_Datsun RediGO
+model_Fiat Abarth Avventura
+model_Fiat Avventura
+model_Fiat Grande Punto
+model_Fiat Linea
+model_Fiat Punto
+model_Fiat Punto Abarth
+model_Fiat Punto EVO
+model_Fiat Punto Pure
+model_Ford Aspire
+model_Ford Ecosport
+model_Ford Endeavour
+model_Ford Fiesta
+model_Ford Fiesta Classic
+model_Ford Figo
+model_Ford Freestyle
+model_Ford Mondeo
+model_Hindustan Motors Contessa
+model_Honda Amaze
+model_Honda BR-V
+model_Honda Brio
+model_Honda CR-V
+model_Honda City
+model_Honda City Hybrid
+model_Honda Civic
+model_Honda Jazz
+model_Honda Mobilio
+model_Honda New Accord
+model_Honda WR-V
+model_Hyundai Accent
+model_Hyundai Alcazar
+model_Hyundai Aura
+model_Hyundai Creta
+model_Hyundai EON
+model_Hyundai Elantra
+model_Hyundai Grand i10
+model_Hyundai Grand i10 Nios
+model_Hyundai Santa Fe
+model_Hyundai Santro
+model_Hyundai Santro Xing
+model_Hyundai Sonata
+model_Hyundai Tucson
+model_Hyundai Venue
+model_Hyundai Verna
+model_Hyundai Xcent
+model_Hyundai i10
+model_Hyundai i20
+model_Hyundai i20 Active
+model_Hyundai i20 N Line
+model_Isuzu D-Max
+model_Isuzu MU-X
+model_Jaguar F-Pace
+model_Jaguar F-TYPE
+model_Jaguar XE
+model_Jaguar XF
+model_Jaguar XJ
+model_Jeep Compass
+model_Jeep Compass Trailhawk
+model_Jeep Meridian
+model_Jeep Wrangler
+model_Kia Carens
+model_Kia Carnival
+model_Kia Seltos
+model_Kia Sonet
+model_Land Rover Defender
+model_Land Rover Discovery
+model_Land Rover Discovery Sport
+model_Land Rover Freelander 2
+model_Land Rover Range Rover
+model_Land Rover Range Rover Evoque
+model_Land Rover Range Rover Sport
+model_Land Rover Range Rover Velar
+model_Lexus ES
+model_Lexus RX
+model_MG Astor
+model_MG Gloster
+model_MG Hector
+model_MG Hector Plus
+model_Mahindra Alturas G4
+model_Mahindra Bolero
+model_Mahindra Bolero Camper
+model_Mahindra Bolero Neo
+model_Mahindra Bolero Pik Up Extra Long
+model_Mahindra Bolero Power Plus
+model_Mahindra Jeep
+model_Mahindra KUV 100
+model_Mahindra KUV 100 NXT
+model_Mahindra Marazzo
+model_Mahindra Quanto
+model_Mahindra Renault Logan
+model_Mahindra Scorpio
+model_Mahindra Scorpio Classic
+model_Mahindra Scorpio N
+model_Mahindra Ssangyong Rexton
+model_Mahindra TUV 300
+model_Mahindra TUV 300 Plus
+model_Mahindra Thar
+model_Mahindra XUV300
+model_Mahindra XUV500
+model_Mahindra XUV700
+model_Mahindra Xylo
+model_Maruti 1000
+model_Maruti 800
+model_Maruti A-Star
+model_Maruti Alto
+model_Maruti Alto 800
+model_Maruti Alto K10
+model_Maruti Baleno
+model_Maruti Baleno RS
+model_Maruti Brezza
+model_Maruti Celerio
+model_Maruti Celerio X
+model_Maruti Ciaz
+model_Maruti Eeco
+model_Maruti Ertiga
+model_Maruti Estilo
+model_Maruti FRONX
+model_Maruti Grand Vitara
+model_Maruti Gypsy
+model_Maruti Ignis
+model_Maruti Jimny
+model_Maruti Omni
+model_Maruti Ritz
+model_Maruti S-Presso
+model_Maruti SX4
+model_Maruti SX4 S Cross
+model_Maruti Swift
+model_Maruti Swift Dzire
+model_Maruti Swift Dzire Tour
+model_Maruti Vitara Brezza
+model_Maruti Wagon R
+model_Maruti Wagon R Stingray
+model_Maruti XL6
+model_Maruti Zen Estilo
+model_Mercedes-Benz A Class
+model_Mercedes-Benz A-Class Limousine
+model_Mercedes-Benz AMG A 35
+model_Mercedes-Benz AMG G 63
+model_Mercedes-Benz AMG GLA 35
+model_Mercedes-Benz AMG GLC 43
+model_Mercedes-Benz AMG GT
+model_Mercedes-Benz B Class
+model_Mercedes-Benz C-Class
+model_Mercedes-Benz CLA
+model_Mercedes-Benz CLS-Class
+model_Mercedes-Benz E-Class
+model_Mercedes-Benz G
+model_Mercedes-Benz GL-Class
+model_Mercedes-Benz GLA
+model_Mercedes-Benz GLA Class
+model_Mercedes-Benz GLC
+model_Mercedes-Benz GLC Coupe
+model_Mercedes-Benz GLE
+model_Mercedes-Benz GLS
+model_Mercedes-Benz M-Class
+model_Mercedes-Benz S-Class
+model_Mercedes-Benz SLC
+model_Mini 3 DOOR
+model_Mini 5 DOOR
+model_Mini Cooper
+model_Mini Cooper Clubman
+model_Mini Cooper Convertible
+model_Mini Cooper Countryman
+model_Mitsubishi Cedia
+model_Mitsubishi Lancer
+model_Mitsubishi Outlander
+model_Mitsubishi Pajero
+model_Nissan Kicks
+model_Nissan Magnite
+model_Nissan Micra
+model_Nissan Micra Active
+model_Nissan Sunny
+model_Nissan Terrano
+model_Porsche 911
+model_Porsche Cayenne
+model_Porsche Macan
+model_Porsche Panamera
+model_Renault Captur
+model_Renault Duster
+model_Renault Fluence
+model_Renault KWID
+model_Renault Kiger
+model_Renault Lodgy
+model_Renault Pulse
+model_Renault Scala
+model_Renault Triber
+model_Skoda Fabia
+model_Skoda Kodiaq
+model_Skoda Kushaq
+model_Skoda Laura
+model_Skoda Octavia
+model_Skoda Rapid
+model_Skoda Slavia
+model_Skoda Superb
+model_Skoda Yeti
+model_Tata Altroz
+model_Tata Aria
+model_Tata Bolt
+model_Tata Harrier
+model_Tata Hexa
+model_Tata Indica
+model_Tata Indica V2
+model_Tata Indigo
+model_Tata Manza
+model_Tata Nano
+model_Tata New Safari
+model_Tata Nexon
+model_Tata Punch
+model_Tata Safari Storme
+model_Tata Tiago
+model_Tata Tiago NRG
+model_Tata Tigor
+model_Tata Yodha Pickup
+model_Tata Zest
+model_Toyota Camry
+model_Toyota Corolla Altis
+model_Toyota Etios
+model_Toyota Etios Cross
+model_Toyota Etios Liva
+model_Toyota Fortuner
+model_Toyota Fortuner Legender
+model_Toyota Glanza
+model_Toyota Hyryder
+model_Toyota Innova
+model_Toyota Innova Crysta
+model_Toyota Land Cruiser 300
+model_Toyota Urban cruiser
+model_Toyota Vellfire
+model_Toyota Yaris
+model_Volkswagen Ameo
+model_Volkswagen Jetta
+model_Volkswagen Passat
+model_Volkswagen Polo
+model_Volkswagen T-Roc
+model_Volkswagen Taigun
+model_Volkswagen Tiguan
+model_Volkswagen Tiguan Allspace
+model_Volkswagen Vento
+model_Volkswagen Virtus
+model_Volvo S60
+model_Volvo S60 Cross Country
+model_Volvo S90
+model_Volvo V40
+model_Volvo XC 90
+model_Volvo XC40
+model_Volvo XC60
+City_Chennai
+City_Delhi
+City_Hyderabad
+City_Jaipur
+City_Kolkata
+km_bucket_10000-20000
+km_bucket_100000-110000
+km_bucket_110000-120000
+km_bucket_20000-30000
+km_bucket_30000-40000
+km_bucket_40000-50000
+km_bucket_50000-60000
+km_bucket_60000-70000
+km_bucket_70000-80000
+km_bucket_80000-90000
+km_bucket_90000-100000
